@@ -9,7 +9,7 @@
 int main()
 {
     int n,a;
-    printf("enter number :",n);
+    printf("enter number :");
     scanf("%d",&n);
     a=n%10;
     printf("%d is the last number\n",a);
